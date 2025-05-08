@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: monster-nymph
+  x-cortex-tag: monster-nymph
+  x-cortex-custom-metadata:
+    alignment: chaotic-good
+    type: fey
+    challenge_rating: 3
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
